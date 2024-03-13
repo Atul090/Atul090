@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Full-Stack developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
+
+
 <p align="left"> <a href="https://twitter.com/999atulsingh" target="blank"><img src="https://img.shields.io/twitter/follow/999atulsingh?logo=twitter&style=for-the-badge" alt="999atulsingh" /></a> </p>
 
 - 🔭 I’m currently working in **Heads Up For Tails**
