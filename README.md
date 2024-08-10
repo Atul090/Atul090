@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/999atulsingh" target="blank"><img src="https://img.shields.io/twitter/follow/999atulsingh?logo=twitter&style=for-the-badge" alt="999atulsingh" /></a> </p>
 
-- 🔭 I’m currently working at **Heads Up For Tails**
+- 🔭 Working at **Heads Up For Tails**
 
-- 🌱 I’m currently learning **MERN stack and  Web3**
+- 🌱 Currently learning **MERN stack and  Web3**
 
-- 📝 I regularly write articles on [https://medium.com/@999.atulsingh](https://medium.com/@999.atulsingh)
+- 📝 I regularly write articles on [https://medium.com/@999.atulsingh](https://medium.com/@999.atulsingh) :P
 
 - 💬 Ask me about **Backend Development, Data Structures and Algorithms, Blockchain **
 
-- 📫 How to reach me **999.atulsingh@gmail.com**
+- 📫 Reach me **999.atulsingh@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
