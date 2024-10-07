@@ -9,7 +9,7 @@
 
 **Backend Development, Data Structures and Algorithms, Blockchain **
 
-- 📫 Reach me **999.atulsingh@gmail.com**
+- 📫 Reach me out @**999.atulsingh@gmail.com**
 
 
 <!-- BLOG-POST-LIST:END -->
