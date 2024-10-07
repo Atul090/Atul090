@@ -7,14 +7,11 @@
 
 - 🌱 Currently learning **MERN stack and  Web3**
 
-- 📝 I regularly write articles on [https://medium.com/@999.atulsingh](https://medium.com/@999.atulsingh) :P
-
-- 💬 Ask me about **Backend Development, Data Structures and Algorithms, Blockchain **
+**Backend Development, Data Structures and Algorithms, Blockchain **
 
 - 📫 Reach me **999.atulsingh@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
