@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul Deep Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/codethenics" target="blank"><img src="https://img.shields.io/twitter/follow/999atulsingh?logo=twitter&style=for-the-badge" alt="999atulsingh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/codethenics" target="blank"><img src="https://img.shields.io/twitter/follow/codethenics?logo=twitter&style=for-the-badge" alt="999atulsingh" /></a> </p>
 
 - 🔭 Working at **Heads Up For Tails**
 
