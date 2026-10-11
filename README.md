@@ -1,33 +1,109 @@
-<h1 align="center">Hi 👋, I'm Atul Deep Singh</h1>
-<h3 align="center">A passionate Full-Stack developer from India.</h3>
+# Hey, I'm Atul Deep Singh 👋
 
-<p align="left"> <a href="https://twitter.com/codethenics" target="blank"><img src="https://img.shields.io/twitter/follow/codethenics?logo=twitter&style=for-the-badge" alt="999atulsingh" /></a> </p>
+### Software Engineer · Backend Engineering · AI & Systems
 
-- 🔭 Working at **Heads Up For Tails**
+I build backend systems that solve real problems — from APIs and database optimization to event-driven workflows and third-party integrations.
 
-- 🌱 Currently learning **MERN stack and  Web3**
+Currently working at **Heads Up For Tails**, building and maintaining production applications with Node.js, Express.js, MongoDB, and RabbitMQ. Outside work, I'm exploring AI engineering, local LLMs, and better ways to build reliable software.
 
-**Backend Development, Data Structures and Algorithms, Blockchain **
+🌐 [Portfolio](https://atuldeepsingh.com) · 💼 [LinkedIn](https://www.linkedin.com/in/atuldeepsingh/) · 🧑‍💻 [LeetCode](https://leetcode.com/999atulsingh/) · 📬 [Email](mailto:999.atulsingh@gmail.com)
 
-- 📫 Reach me out @**999.atulsingh@gmail.com**
+---
 
+## ⚡ What I'm Working On
 
-<!-- BLOG-POST-LIST:END -->
+- 🏗️ **Backend engineering** — Designing REST APIs, improving database performance, and building reliable asynchronous workflows.
+- ⚙️ **Distributed systems** — Exploring message queues, retries, idempotency, and failure handling with RabbitMQ.
+- 🤖 **AI engineering** — Learning about LLMs, RAG pipelines, AI agents, LangGraph, and local model inference.
+- 🧠 **Problem solving** — Practicing DSA and learning the patterns behind efficient solutions.
+- 🛠️ **Developer tooling** — Experimenting with automation, local AI models, and practical tools that improve developer productivity.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/999atulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="999atulsingh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atuldeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atuldeepsingh" height="30" width="40" /></a>
-<a href="https://hashnode.com/@999atulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@999atulsingh" height="30" width="40" /></a>
-<a href="https://medium.com/@999.atulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@999.atulsingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/999atulsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="999atulsingh" height="30" width="40" /></a>
+## 💻 Engineering Highlights
+
+A few areas I've worked on in production:
+
+| Area | What I've worked on |
+|---|---|
+| Backend APIs | Building and maintaining Node.js and Express.js services |
+| Database performance | Optimizing MongoDB queries and aggregation pipelines |
+| Event-driven systems | Implementing asynchronous workflows with RabbitMQ |
+| Third-party integrations | Shopify, Cashfree, Clickpost, CleverTap, and Odoo integrations |
+| Data synchronization | Shopify webhooks, product synchronization, and external API workflows |
+| API reliability | Authentication, validation, error handling, retries, and idempotency |
+
+**My engineering philosophy:** Make it work, understand why it works, then make it reliable and fast.
+
+## 🧰 Tech Stack
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Databases & Search**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Cloud, Tools & AI**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+## 🚀 Explore My Work
+
+Here are a few places to start:
+
+- 🌐 **[Portfolio Website](https://github.com/Atul090/portfolio-website)** — My personal developer portfolio.
+- 🧩 **[GitHub Repositories](https://github.com/Atul090?tab=repositories)** — Explore my code, experiments, and projects.
+- ⚙️ **[Automation Experiments](https://n8ninstance.atuldeepsingh.site)** — My n8n instance for workflow automation experiments.
+- 🧠 **[LeetCode Profile](https://leetcode.com/999atulsingh/)** — My problem-solving practice.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atul090&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Atul's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul090&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Atul090&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<p></ align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul090&show_icons=true&locale=en&layout=compact" alt="atul090" /></p>
+## 🤝 Let's Connect
 
-<p>&nbsp;</ align="center" src="https://github-readme-stats.vercel.app/api?username=atul090&show_icons=true&locale=en" alt="atul090" /></p>
+I'm always interested in discussing backend engineering, system design, databases, AI-powered applications, and opportunities to build useful things.
 
-<p></ align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul090&" alt="atul090" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/atuldeepsingh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/Atul090">
+    <img src="https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+  </a>
+  <a href="mailto:999.atulsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building things, breaking things, and learning something new along the way.</i>
+</p>
